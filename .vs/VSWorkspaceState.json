@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Dictionaries",
+    "\\Highest Number"
   ],
+  "SelectedNode": "\\Highest Number\\Highest Number.csproj",
   "PreviewInSolutionExplorer": false
 }
